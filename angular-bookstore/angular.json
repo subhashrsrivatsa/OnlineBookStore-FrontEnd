@@ -30,7 +30,10 @@
             "styles": [
               "src/styles.css"
             ],
-            "scripts": []
+            "scripts": [
+              "node_modules/jquery/dist/jquery.min.css",
+              "node_modules/bootsrap/dist/js/bootstrap.bundle.css"
+            ]
           },
           "configurations": {
             "production": {
